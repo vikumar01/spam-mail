@@ -1,2 +1,2 @@
-Predict stock value from the new headlines..
+Predictthe mail as spam or not
 KAggle dataset
