@@ -1,2 +1,2 @@
-Predictthe mail as spam or not
+Predict the mail as spam or not
 KAggle dataset
